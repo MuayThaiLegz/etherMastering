@@ -99,4 +99,54 @@ selfdestruct(recipient_address)
 this
     // The address of the currently executing contract account
 
-// 
+// Truffle development environment and capture the events, to see how it looks
+
+truffle(develop)> migrate
+
+truffle(develop)> web3.eth.accounts[0]
+
+truffle(develop)> caller.address
+
+truffle(develop)> calledContract.address
+
+truffle(develop)> calledLibrary.address
+
+truffle(develop)> caller.deployed().then( i => {callerDeployed = i })
+
+truffle(develop)> callerDeployed.make_calls(calledContract.address).then(res => {res.logs.forEach( log => { console.log(log,args) })})
+
+var contract = web.eth.contract(abi).at(address);
+
+var getEstimate = contract.myAweSomeMethod.estimateGAs(arg1, arg2,
+    {from : account});
+
+// Obtain the gas price form the network you can use
+
+var gasPrice = web3.GasPrice();
+
+// And from there you can estimate gas cost;
+
+var gasCostInEth = web3.fromWei((gasEstimate * gasPrice), 'ether');
+
+// Apply our gas estimation function to estimating the gas cost of faucet
+
+var FaucetContract = artifacts.require('./faucet.sol');
+
+FaucetContract.web3.eth.gasGasPrice(function(error, result) {
+    var gasPrice = Number(result);
+    console.log('Gas Price is' + gasPrice + ' wei'), // '1000000000000
+
+    // Get the contract instance 
+    FaucetContract.deployed().then(function(FaucetContractInstance) {
+        // Use the keyword 'estimateGas' after the fcuntion name to get the gas 
+        // estimatin for this particular function (aprove)
+        FaucetContractInstance.send(web3.toWei(1, 'ether'));
+return FaucetContractInstance.withdraw.estimateGAs(web3.toWei(0.1, 'ether'));
+}).then(function(result) {
+    var gas = Number(result);
+
+    console.log('gas estimation =' + gas + " units");
+    console.log('gas cost estimation = ' + (gas * gasPrice) + ' wei');
+    console.log('gas cost estimation = ' + FaucetContract.web3.fromWei((gas * gasPrice), 'ether') + ' ether');
+    });
+});

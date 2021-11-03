@@ -1,3 +1,6 @@
+const { networkInterfaces } = require("os");
+const { compileFunction } = require("vm");
+
 web3.eth.getGasPrice(console.log);
 
 // Transaction Recipient
@@ -150,3 +153,93 @@ return FaucetContractInstance.withdraw.estimateGAs(web3.toWei(0.1, 'ether'));
     console.log('gas cost estimation = ' + FaucetContract.web3.fromWei((gas * gasPrice), 'ether') + ' ether');
     });
 });
+
+var METoken = artifacts.require('METoken');
+
+module.exports = function(deployer) {
+    // Deploy the METoken contract as our onlu task
+    deployer.deploy(METoken);
+};
+/*
+truffle(ganache) > METoken
+{ [Function: TruffleContract]
+_static_methods:
+//[....],
+
+currentProvier:
+HttpProvider {
+    host: 'http://localhost:7545',
+    timeout: 0,
+    user: undefined,
+    password: undefined,
+    headers: undefined,
+    send: [Function],
+    sendAsync: [Function],
+    _alreadyWrapped: true },
+network_id: '5777' }
+*/
+
+truffle(ganache) > METoken.address
+
+// To interact with the deployed contract, we have to use an asynchronous call
+// in the form of a JaveScript 'promise', We use the deployerd fucntion to get the contract instance and them
+
+truffle(ganache)> METoken.deployed().then(instance => instance.totalSupply())
+
+// Let's use the accounts accounts created by ganache to check our METoken balance abd send eth
+
+truffle(ganache)> let accounts
+
+truffle(ganache)> web3.eth.getAccounts((err, res) => { accounts = res })
+
+truffle(ganache)> accounts[0]
+
+/* The accounts list now contrain all the accounts created by ganache, and account[0]
+ is ther account that deployed the METoken contract. It should have a balance of METoken
+ bacause out METoken constuctor gives the entire token supply to the address that created it.
+*/
+truffle(ganache)> METoken.deployed().then(instance =>
+                    { instance.balanceOf(accounts[0]).then(console.log) })
+
+truffle(ganache)> BigNumber { s: 1, e: 9, c: [2100000000 ] } 
+
+// Transfer 1000.00 METoken form account[0] to account[1],
+// by calling the contract's transfer function:
+
+truffle(ganache)> METoken.deployed().then(instance =>
+                    { instance.tranfer(accounts[1], 100000) } )
+
+truffle(ganache)> METoken.deployed().then(instance => 
+    {instance.balanceOF(accounts[0]).then(console.log) })
+
+truffle(ganache)> BigNumber {s: 1, e: 9, c: [2099900000 ] }
+
+truffle(ganache)> METoken.deployed().then(instance =>
+                  { instance.balanceOf(accounts[1]).then(console.log) })
+
+truffle(ganache)> BigNumber { s: 1, e: 5, c: [; 100000] }
+
+// We'll also add a migration, to deploy Faucet separately form METoken
+
+var Faucet = artifacts.require('Faucet');
+
+module.exports = function(deployer) {
+    deployer.deploy(Faucet);
+};
+
+// Let;s compile and migrate contracts form the truffle console:
+truffle console --network ganache
+
+truffle(ganache)> compile
+
+truffle(ganache)> migrate
+
+// Great. Now let's send some MET to the faucet contract:
+
+truffle(ganache)> METoken.deployed().then(instance =>
+    { instance.tranfer(Faucet.address, 100000) })
+
+truffle(ganache)> METoken.deployed().then(instance =>
+    { instance.balanceOf(Faucet.address).then(console.log)})
+
+truffle(ganache)> BigNumber { s: 1, e: 5, c: [ 100000] }

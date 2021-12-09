@@ -1,0 +1,65 @@
+EVM languanges. Alternatives namely LLL, Serpent and Viper 
+
+
+LLL provides low-level functions close to the EVM opcodes and simple contro structures
+(such as for, if, and so on). Allowing one to write low level contract code
+
+(seq <-- instructs the LL compiler to evaluate eexpressions below this line in order.
+    (def 'value x00) <-- Declares a variable names value at memory location 0X00
+    (def 'dummy Oxbc23ecab) <-- Declares a fucntions called dummy at memory location 0xbc23ecab
+    (returnlll <-- Defines a macro in the LLL compiler to return the code below it
+      (function dummy <-- start defining the function 'dummy'
+        (seq
+           (mstore value(calldataload 0)) <-- reads the location 0 of the data passed in when
+            calling the the function (call data) and stores it in a variable names value
+
+           (return value 32))))) <-- Returns 32 bytes form the variable value
+
+# This is roughlt equivalent to the fowlling Solidity code:
+
+contract Dummy {
+    function dummy(bytes32 _value) returns (bytes32) {
+        return _value;
+    }
+}
+
+
+Serpent and Viper
+Serpent is a Python-like languange is provides a minimalistc philosophy
+and a low level languange through simple syntax,
+
+# How SimpleCoin would look in Solidity:
+
+contract SimpleCoin {
+    mapping (address => uint256) public coinBalance;
+
+    event Transfer(address indexed from, address indexed to, uint256 value);
+
+    constructor(uint256 _initialSupply) public {
+        coinBalance[msg.sender] = _initialSupply;
+    }
+
+    function transfer(address _to, uint256 _amount) public {
+        require(coinBalance[msg.sender] > _amount);
+        require(coinBalance[_to] + _amount >= coinBalance[_to] );
+        coinBalance[_to] += _amount;
+        emit Transfer(msg.sender, _to, _amount);
+
+
+# How SimpleCoin would look in Serpent:
+
+def init():
+    self.storage[msg.sender] = 10000
+
+def balance_query(address):
+    return(self.storage[address])
+
+def transfer(to, amount):
+    if self.storage[msg.sender] >= amount:
+        self.storage[msg.sender] -= amount
+        self.storage[to] += amount
+
+
+
+
+

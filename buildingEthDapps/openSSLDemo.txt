@@ -1,0 +1,657 @@
+□□□y□♣-I\%OldxGf/□□□□E□□□□l□□□►肃□□□kqg□¶□9□v☺□VlC<{□□♣Cy/A□47□□p7□□V□↕□C□→□A□□□;□~#□□§▬□□↨B□ÿ9□'�□Op+□↔c□□□5~□□▬□□ □□♂□□4av↨□□<□Y^t→□朗'N♠□Y□▬↓□□`\□□□ϣf♣□□T1":□□:o□□☼□5→□$%c6X߷q□P@□□pH)□□rA□□a□h□►□□□5□□□q□□□□□jd□□□b↔Ge□,♦;;□↓,n□□"□.ܯ□§□□Wp$□"□c□♂□>E□□□□□□□□□r□jT↔□[□□~♥□K:}↕□Tl□&ػ□)□Ҫ□00]Os*w□⌂ɠ6□▲□□s□§T=□□□□
+}□@□)□@W□□{□♂wM-□▬      G3□fB`t□'□□□□,Q□□       1(O♫□□□□9□Z□|ѝ▲]8□b□▼□>+eb□.6□߮□□p□♥M>□+TS-=E.□8□□□□□5□□□G□s□U□□□♥□♀□ԵE□dp~□□ TY⌂N□□□=bx□7□|□□□ۉ□j¶□□□□~˽□□□□Gm□K^□□□7□*□4□♦□□/s�□]□□a0"□☻2>h□ϭ◄□↨♦□VP/K□B□□☺□□H□ͮ□o¶▼□□#□□□qq□GFK□□□□_G8P‼[□□Z□□,k♥+♂□□B֭□□□Ɣ_□⌂A(dev) □R□3w□☻(□Gd~□♣9↑c̦o1□B♥□?؉□*□□ݴʾ□an4ϯT¶↑▬□□□□`;    N'V!H□□♠□ޯ□□∟z§<|□c□    □$4_□□♦"□o□□Yx+□□c□□ε%r□□u^□□↕L□□↓
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl enc -base64 -in message.bin -out messagee.b64
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat message.b64
+cat: message.b64: No such file or directory
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ ls
+ appdotpy_cutoff.docx   customer_account.sol                          Mastering_Blockchain_Programming/   module_20/    node2/                     soljson-v0.7.0+commit.9e61f92b.js
+ bin/                  'FinTech Online Boot Camp Syllabus (2).pdf'    MAtering.txt                        module_21/    Project_3_Swapout/         staking.txt
+ blockchain.txt         Introduction_into_blockchain_Solidity.ipynb   message.bin                         module_fin/   sessage.txt                station/
+ crip_thoo/             Master_Blockchain_Programming_Solidity/       messagee.b64                        node1/        solidity_smartcontracts/   Win64OpenSSL-3_0_0.exe*
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat messagee.b64
+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
+Kwu8o0LWrc/S4saUX8p/QQ==
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl enc -d -base641 -in sessage.b64 -out message.ptx
+enc: Unrecognized flag base641
+enc: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl enc -d -base64 -in sessage.b64 -out message.ptx
+Can't open sessage.b64 for reading, No such file or directory
+25512:error:02001002:system library:fopen:No such file or directory:crypto\bio\bss_file.c:69:fopen('sessage.b64','r')
+25512:error:2006D080:BIO routines:BIO_new_file:no such file:crypto\bio\bss_file.c:76:
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl enc -d -base64 -in messagee.b64 -out message.ptx
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ :~/Crypt$ cat message.ptx
+bash: :~/Crypt$: No such file or directory
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ecparam -param_enc explicit -text -noout -name secp256k1
+Field Type: prime-field
+Prime:
+    00:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:
+    ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:fe:ff:
+    ff:fc:2f
+A:    0
+B:    7 (0x7)
+Generator (uncompressed):
+    04:79:be:66:7e:f9:dc:bb:ac:55:a0:62:95:ce:87:
+    0b:07:02:9b:fc:db:2d:ce:28:d9:59:f2:81:5b:16:
+    f8:17:98:48:3a:da:77:26:a3:c4:65:5d:a4:fb:fc:
+    0e:11:08:a8:fd:17:b4:48:a6:85:54:19:9c:47:d0:
+    8f:fb:10:d4:b8
+Order:
+    00:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:
+    ff:fe:ba:ae:dc:e6:af:48:a0:3b:bf:d2:5e:8c:d0:
+    36:41:41
+Cofactor:  1 (0x1)
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl genpkey -algorithm RSA -out privatekey.pem -pkeyopt rsa_keygen_bits:1024
+.....+++++
+......................+++++
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat private.pem
+cat: private.pem: No such file or directory
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat privatekey.pem
+-----BEGIN PRIVATE KEY-----
+MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAMzmrDvY+xvqUV4f
+NrkcJnIADIKJoQMV+oeYUB7DN8pKgrwE+B+PDIPuEuMgQ6TI/8wahbAHhpE3aKkg
+TkzihPtLIW3UCh5h/R5Vumr3JIAaFs0yyMwQA0+vBtkFB5Em4H+IVqSVfmJMs4GU
+YLx81fHaqxw0cuBQaMzDkchIDXIvAgMBAAECgYBSC6O3qyCRgvfl2lXNNWpnh4F6
+26UvWSOiG+kpCD5UsBU9ODgqWttGEJRbgdXUK+/RSGVzoO/PQgKUhi0UODfKt7ll
+yK7p6TM+uChE6XHThyWm1P+QjuUtilRF30MB0IS33SY9jwSKaw+OOZkT2m/9Pi/I
+ZERXQfbCjoGVJRt8IQJBAPiEr4MCTb4iJ5/hpNDgez7wyw02KYg5yx/zIlANJCdj
+dbFAriHROwx1XkBkUzk1aJAyB0m4+DsgTC3Wt1QPiVkCQQDTEdT8t8u45WcZDJCE
+b8qgaOQsBudNGf7HXgItzKmkVEbe95PfGfNWO0bihLzkTJ+0/c6yhzjuutl2nBsr
+g17HAkEApR3LWvjx3EznFNQf5GPxnuzvjBSbXZZAfjbVamiAx+bOMHmv+GoCmJF2
+kMPXg6AXnA6RRwstamNYGfCaF7DG6QJAeBjLYciKqHgPQ5d8m36ogsFsIwkCj0Jd
+T79T6g9r707szG1+vBEd/lDYModom1ZmASvxcm+ym1PB7NVCOG4VfQJALcTvVvHF
+1H6IWpMvIx6McQeR4XRzG0BdDToFsSHKokLlOTEECewZSj0mg+R43T5fv2jFzVRm
+j/2SVq79J8gpww==
+-----END PRIVATE KEY-----
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl rsa -pubout -in privatekey.pem -out publickey.pem
+writing RSA key
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat publickey.pem
+-----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDM5qw72Psb6lFeHza5HCZyAAyC
+iaEDFfqHmFAewzfKSoK8BPgfjwyD7hLjIEOkyP/MGoWwB4aRN2ipIE5M4oT7SyFt
+1AoeYf0eVbpq9ySAGhbNMsjMEANPrwbZBQeRJuB/iFaklX5iTLOBlGC8fNXx2qsc
+NHLgUGjMw5HISA1yLwIDAQAB
+-----END PUBLIC KEY-----
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl rsa -text -in privatekey.pem
+RSA Private-Key: (1024 bit, 2 primes)
+modulus:
+    00:cc:e6:ac:3b:d8:fb:1b:ea:51:5e:1f:36:b9:1c:
+    26:72:00:0c:82:89:a1:03:15:fa:87:98:50:1e:c3:
+    37:ca:4a:82:bc:04:f8:1f:8f:0c:83:ee:12:e3:20:
+    43:a4:c8:ff:cc:1a:85:b0:07:86:91:37:68:a9:20:
+    4e:4c:e2:84:fb:4b:21:6d:d4:0a:1e:61:fd:1e:55:
+    ba:6a:f7:24:80:1a:16:cd:32:c8:cc:10:03:4f:af:
+    06:d9:05:07:91:26:e0:7f:88:56:a4:95:7e:62:4c:
+    b3:81:94:60:bc:7c:d5:f1:da:ab:1c:34:72:e0:50:
+    68:cc:c3:91:c8:48:0d:72:2f
+publicExponent: 65537 (0x10001)
+privateExponent:
+    52:0b:a3:b7:ab:20:91:82:f7:e5:da:55:cd:35:6a:
+    67:87:81:7a:db:a5:2f:59:23:a2:1b:e9:29:08:3e:
+    54:b0:15:3d:38:38:2a:5a:db:46:10:94:5b:81:d5:
+    d4:2b:ef:d1:48:65:73:a0:ef:cf:42:02:94:86:2d:
+    14:38:37:ca:b7:b9:65:c8:ae:e9:e9:33:3e:b8:28:
+    44:e9:71:d3:87:25:a6:d4:ff:90:8e:e5:2d:8a:54:
+    45:df:43:01:d0:84:b7:dd:26:3d:8f:04:8a:6b:0f:
+    8e:39:99:13:da:6f:fd:3e:2f:c8:64:44:57:41:f6:
+    c2:8e:81:95:25:1b:7c:21
+prime1:
+    00:f8:84:af:83:02:4d:be:22:27:9f:e1:a4:d0:e0:
+    7b:3e:f0:cb:0d:36:29:88:39:cb:1f:f3:22:50:0d:
+    24:27:63:75:b1:40:ae:21:d1:3b:0c:75:5e:40:64:
+    53:39:35:68:90:32:07:49:b8:f8:3b:20:4c:2d:d6:
+    b7:54:0f:89:59
+prime2:
+    00:d3:11:d4:fc:b7:cb:b8:e5:67:19:0c:90:84:6f:
+    ca:a0:68:e4:2c:06:e7:4d:19:fe:c7:5e:02:2d:cc:
+    a9:a4:54:46:de:f7:93:df:19:f3:56:3b:46:e2:84:
+    bc:e4:4c:9f:b4:fd:ce:b2:87:38:ee:ba:d9:76:9c:
+    1b:2b:83:5e:c7
+exponent1:
+    00:a5:1d:cb:5a:f8:f1:dc:4c:e7:14:d4:1f:e4:63:
+    f1:9e:ec:ef:8c:14:9b:5d:96:40:7e:36:d5:6a:68:
+    80:c7:e6:ce:30:79:af:f8:6a:02:98:91:76:90:c3:
+    d7:83:a0:17:9c:0e:91:47:0b:2d:6a:63:58:19:f0:
+    9a:17:b0:c6:e9
+exponent2:
+    78:18:cb:61:c8:8a:a8:78:0f:43:97:7c:9b:7e:a8:
+    82:c1:6c:23:09:02:8f:42:5d:4f:bf:53:ea:0f:6b:
+    ef:4e:ec:cc:6d:7e:bc:11:1d:fe:50:d8:32:87:68:
+    9b:56:66:01:2b:f1:72:6f:b2:9b:53:c1:ec:d5:42:
+    38:6e:15:7d
+coefficient:
+    2d:c4:ef:56:f1:c5:d4:7e:88:5a:93:2f:23:1e:8c:
+    71:07:91:e1:74:73:1b:40:5d:0d:3a:05:b1:21:ca:
+    a2:42:e5:39:31:04:09:ec:19:4a:3d:26:83:e4:78:
+    dd:3e:5f:bf:68:c5:cd:54:66:8f:fd:92:56:ae:fd:
+    27:c8:29:c3
+writing RSA key
+-----BEGIN RSA PRIVATE KEY-----
+MIICXAIBAAKBgQDM5qw72Psb6lFeHza5HCZyAAyCiaEDFfqHmFAewzfKSoK8BPgf
+jwyD7hLjIEOkyP/MGoWwB4aRN2ipIE5M4oT7SyFt1AoeYf0eVbpq9ySAGhbNMsjM
+EANPrwbZBQeRJuB/iFaklX5iTLOBlGC8fNXx2qscNHLgUGjMw5HISA1yLwIDAQAB
+AoGAUgujt6sgkYL35dpVzTVqZ4eBetulL1kjohvpKQg+VLAVPTg4KlrbRhCUW4HV
+1Cvv0Uhlc6Dvz0IClIYtFDg3yre5Zciu6ekzPrgoROlx04clptT/kI7lLYpURd9D
+AdCEt90mPY8EimsPjjmZE9pv/T4vyGREV0H2wo6BlSUbfCECQQD4hK+DAk2+Iief
+4aTQ4Hs+8MsNNimIOcsf8yJQDSQnY3WxQK4h0TsMdV5AZFM5NWiQMgdJuPg7IEwt
+1rdUD4lZAkEA0xHU/LfLuOVnGQyQhG/KoGjkLAbnTRn+x14CLcyppFRG3veT3xnz
+VjtG4oS85EyftP3Osoc47rrZdpwbK4NexwJBAKUdy1r48dxM5xTUH+Rj8Z7s74wU
+m12WQH421WpogMfmzjB5r/hqApiRdpDD14OgF5wOkUcLLWpjWBnwmhewxukCQHgY
+y2HIiqh4D0OXfJt+qILBbCMJAo9CXU+/U+oPa+9O7MxtfrwRHf5Q2DKHaJtWZgEr
+8XJvsptTwezVQjhuFX0CQC3E71bxxdR+iFqTLyMejHEHkeF0cxtAXQ06BbEhyqJC
+5TkxBAnsGUo9JoPkeN0+X79oxc1UZo/9klau/SfIKcM=
+-----END RSA PRIVATE KEY-----
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl pkey -in publickey.pem -public -text
+pkey: Unrecognized flag public
+pkey: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl pkey -in publickey.pem -public -text
+pkey: Unrecognized flag public
+pkey: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl pkey -in publickey.pem -pubin -text
+-----BEGIN PUBLIC KEY-----
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDM5qw72Psb6lFeHza5HCZyAAyC
+iaEDFfqHmFAewzfKSoK8BPgfjwyD7hLjIEOkyP/MGoWwB4aRN2ipIE5M4oT7SyFt
+1AoeYf0eVbpq9ySAGhbNMsjMEANPrwbZBQeRJuB/iFaklX5iTLOBlGC8fNXx2qsc
+NHLgUGjMw5HISA1yLwIDAQAB
+-----END PUBLIC KEY-----
+RSA Public-Key: (1024 bit)
+Modulus:
+    00:cc:e6:ac:3b:d8:fb:1b:ea:51:5e:1f:36:b9:1c:
+    26:72:00:0c:82:89:a1:03:15:fa:87:98:50:1e:c3:
+    37:ca:4a:82:bc:04:f8:1f:8f:0c:83:ee:12:e3:20:
+    43:a4:c8:ff:cc:1a:85:b0:07:86:91:37:68:a9:20:
+    4e:4c:e2:84:fb:4b:21:6d:d4:0a:1e:61:fd:1e:55:
+    ba:6a:f7:24:80:1a:16:cd:32:c8:cc:10:03:4f:af:
+    06:d9:05:07:91:26:e0:7f:88:56:a4:95:7e:62:4c:
+    b3:81:94:60:bc:7c:d5:f1:da:ab:1c:34:72:e0:50:
+    68:cc:c3:91:c8:48:0d:72:2f
+Exponent: 65537 (0x10001)
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ echo datatoencrypt > message.txt
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl rsautl -encrypt -inkey publickey.pem -pubin -in message.txt -out
+rsautl: Option -out needs a value
+rsautl: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl rsautl -encrypt -inkey publickey.pem -pubin -in message.txt -out message.rsa
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl rsauttl -decrypt -inkey privatekey.pem -in message.rsa -out message.dec
+Invalid command 'rsauttl'; type "help" for a list.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl rsautl -decrypt -inkey privatekey.pem -in message.rsa -out message.dec
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat message.dec
+datatoencrypt
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ecparam -list_curves
+  secp112r1 : SECG/WTLS curve over a 112 bit prime field
+  secp112r2 : SECG curve over a 112 bit prime field
+  secp128r1 : SECG curve over a 128 bit prime field
+  secp128r2 : SECG curve over a 128 bit prime field
+  secp160k1 : SECG curve over a 160 bit prime field
+  secp160r1 : SECG curve over a 160 bit prime field
+  secp160r2 : SECG/WTLS curve over a 160 bit prime field
+  secp192k1 : SECG curve over a 192 bit prime field
+  secp224k1 : SECG curve over a 224 bit prime field
+  secp224r1 : NIST/SECG curve over a 224 bit prime field
+  secp256k1 : SECG curve over a 256 bit prime field
+  secp384r1 : NIST/SECG curve over a 384 bit prime field
+  secp521r1 : NIST/SECG curve over a 521 bit prime field
+  prime192v1: NIST/X9.62/SECG curve over a 192 bit prime field
+  prime192v2: X9.62 curve over a 192 bit prime field
+  prime192v3: X9.62 curve over a 192 bit prime field
+  prime239v1: X9.62 curve over a 239 bit prime field
+  prime239v2: X9.62 curve over a 239 bit prime field
+  prime239v3: X9.62 curve over a 239 bit prime field
+  prime256v1: X9.62/SECG curve over a 256 bit prime field
+  sect113r1 : SECG curve over a 113 bit binary field
+  sect113r2 : SECG curve over a 113 bit binary field
+  sect131r1 : SECG/WTLS curve over a 131 bit binary field
+  sect131r2 : SECG curve over a 131 bit binary field
+  sect163k1 : NIST/SECG/WTLS curve over a 163 bit binary field
+  sect163r1 : SECG curve over a 163 bit binary field
+  sect163r2 : NIST/SECG curve over a 163 bit binary field
+  sect193r1 : SECG curve over a 193 bit binary field
+  sect193r2 : SECG curve over a 193 bit binary field
+  sect233k1 : NIST/SECG/WTLS curve over a 233 bit binary field
+  sect233r1 : NIST/SECG/WTLS curve over a 233 bit binary field
+  sect239k1 : SECG curve over a 239 bit binary field
+  sect283k1 : NIST/SECG curve over a 283 bit binary field
+  sect283r1 : NIST/SECG curve over a 283 bit binary field
+  sect409k1 : NIST/SECG curve over a 409 bit binary field
+  sect409r1 : NIST/SECG curve over a 409 bit binary field
+  sect571k1 : NIST/SECG curve over a 571 bit binary field
+  sect571r1 : NIST/SECG curve over a 571 bit binary field
+  c2pnb163v1: X9.62 curve over a 163 bit binary field
+  c2pnb163v2: X9.62 curve over a 163 bit binary field
+  c2pnb163v3: X9.62 curve over a 163 bit binary field
+  c2pnb176v1: X9.62 curve over a 176 bit binary field
+  c2tnb191v1: X9.62 curve over a 191 bit binary field
+  c2tnb191v2: X9.62 curve over a 191 bit binary field
+  c2tnb191v3: X9.62 curve over a 191 bit binary field
+  c2pnb208w1: X9.62 curve over a 208 bit binary field
+  c2tnb239v1: X9.62 curve over a 239 bit binary field
+  c2tnb239v2: X9.62 curve over a 239 bit binary field
+  c2tnb239v3: X9.62 curve over a 239 bit binary field
+  c2pnb272w1: X9.62 curve over a 272 bit binary field
+  c2pnb304w1: X9.62 curve over a 304 bit binary field
+  c2tnb359v1: X9.62 curve over a 359 bit binary field
+  c2pnb368w1: X9.62 curve over a 368 bit binary field
+  c2tnb431r1: X9.62 curve over a 431 bit binary field
+  wap-wsg-idm-ecid-wtls1: WTLS curve over a 113 bit binary field
+  wap-wsg-idm-ecid-wtls3: NIST/SECG/WTLS curve over a 163 bit binary field
+  wap-wsg-idm-ecid-wtls4: SECG curve over a 113 bit binary field
+  wap-wsg-idm-ecid-wtls5: X9.62 curve over a 163 bit binary field
+  wap-wsg-idm-ecid-wtls6: SECG/WTLS curve over a 112 bit prime field
+  wap-wsg-idm-ecid-wtls7: SECG/WTLS curve over a 160 bit prime field
+  wap-wsg-idm-ecid-wtls8: WTLS curve over a 112 bit prime field
+  wap-wsg-idm-ecid-wtls9: WTLS curve over a 160 bit prime field
+  wap-wsg-idm-ecid-wtls10: NIST/SECG/WTLS curve over a 233 bit binary field
+  wap-wsg-idm-ecid-wtls11: NIST/SECG/WTLS curve over a 233 bit binary field
+  wap-wsg-idm-ecid-wtls12: WTLS curve over a 224 bit prime field
+  Oakley-EC2N-3:
+        IPSec/IKE/Oakley curve #3 over a 155 bit binary field.
+        Not suitable for ECDSA.
+        Questionable extension field!
+  Oakley-EC2N-4:
+        IPSec/IKE/Oakley curve #4 over a 185 bit binary field.
+        Not suitable for ECDSA.
+        Questionable extension field!
+  brainpoolP160r1: RFC 5639 curve over a 160 bit prime field
+  brainpoolP160t1: RFC 5639 curve over a 160 bit prime field
+  brainpoolP192r1: RFC 5639 curve over a 192 bit prime field
+  brainpoolP192t1: RFC 5639 curve over a 192 bit prime field
+  brainpoolP224r1: RFC 5639 curve over a 224 bit prime field
+  brainpoolP224t1: RFC 5639 curve over a 224 bit prime field
+  brainpoolP256r1: RFC 5639 curve over a 256 bit prime field
+  brainpoolP256t1: RFC 5639 curve over a 256 bit prime field
+  brainpoolP320r1: RFC 5639 curve over a 320 bit prime field
+  brainpoolP320t1: RFC 5639 curve over a 320 bit prime field
+  brainpoolP384r1: RFC 5639 curve over a 384 bit prime field
+  brainpoolP384t1: RFC 5639 curve over a 384 bit prime field
+  brainpoolP512r1: RFC 5639 curve over a 512 bit prime field
+  brainpoolP512t1: RFC 5639 curve over a 512 bit prime field
+  SM2       : SM2 curve over a 256 bit prime field
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ecparam -name secp256k1 -genkey -noout -out ec-privatekey.pem
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat ec-privatekey.pem
+-----BEGIN EC PRIVATE KEY-----
+MHQCAQEEIDZ9GynyStw02h7dCA3MFA+YeLIdniHh99Bmj7G/cpJfoAcGBSuBBAAK
+oUQDQgAEqz1VcaVVPF4fFvpelAs8OIJs50bfbz3VoJWQ4dNv/4Ljnxen2G/pgnXl
+q1PQSozbaoHmVM7dF/TjbEXMYcJSjA==
+-----END EC PRIVATE KEY-----
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in ec-privatekey.pem -pubout -out ec-pubkey.pem
+read EC key
+writing EC key
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat ec-pubkey.pem
+-----BEGIN PUBLIC KEY-----
+MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEqz1VcaVVPF4fFvpelAs8OIJs50bfbz3V
+oJWQ4dNv/4Ljnxen2G/pgnXlq1PQSozbaoHmVM7dF/TjbEXMYcJSjA==
+-----END PUBLIC KEY-----
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in ec-privatekey.pem -text -noout
+read EC key
+Private-Key: (256 bit)
+priv:
+    36:7d:1b:29:f2:4a:dc:34:da:1e:dd:08:0d:cc:14:
+    0f:98:78:b2:1d:9e:21:e1:f7:d0:66:8f:b1:bf:72:
+    92:5f
+pub:
+    04:ab:3d:55:71:a5:55:3c:5e:1f:16:fa:5e:94:0b:
+    3c:38:82:6c:e7:46:df:6f:3d:d5:a0:95:90:e1:d3:
+    6f:ff:82:e3:9f:17:a7:d8:6f:e9:82:75:e5:ab:53:
+    d0:4a:8c:db:6a:81:e6:54:ce:dd:17:f4:e3:6c:45:
+    cc:61:c2:52:8c
+ASN1 OID: secp256k1
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ opelssl ec -in ec-pubkey.pem -pubin - text -noout
+bash: opelssl: command not found
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in ec-pubkey.pem -pubin - text -noout
+ec: Unrecognized flag <NULL>
+ec: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in ec-private.pem -pubin - text -noout
+ec: Unrecognized flag <NULL>
+ec: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in ec-privatekey.pem -text -noout
+read EC key
+Private-Key: (256 bit)
+priv:
+    36:7d:1b:29:f2:4a:dc:34:da:1e:dd:08:0d:cc:14:
+    0f:98:78:b2:1d:9e:21:e1:f7:d0:66:8f:b1:bf:72:
+    92:5f
+pub:
+    04:ab:3d:55:71:a5:55:3c:5e:1f:16:fa:5e:94:0b:
+    3c:38:82:6c:e7:46:df:6f:3d:d5:a0:95:90:e1:d3:
+    6f:ff:82:e3:9f:17:a7:d8:6f:e9:82:75:e5:ab:53:
+    d0:4a:8c:db:6a:81:e6:54:ce:dd:17:f4:e3:6c:45:
+    cc:61:c2:52:8c
+ASN1 OID: secp256k1
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in ec-pubkey.pem -pubin -text -noout
+read EC key
+Public-Key: (256 bit)
+pub:
+    04:ab:3d:55:71:a5:55:3c:5e:1f:16:fa:5e:94:0b:
+    3c:38:82:6c:e7:46:df:6f:3d:d5:a0:95:90:e1:d3:
+    6f:ff:82:e3:9f:17:a7:d8:6f:e9:82:75:e5:ab:53:
+    d0:4a:8c:db:6a:81:e6:54:ce:dd:17:f4:e3:6c:45:
+    cc:61:c2:52:8c
+ASN1 OID: secp256k1
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ecparam -name secp256k1 -out secp256k1.pem
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat secp256k1.pem
+-----BEGIN EC PARAMETERS-----
+BgUrgQQACg==
+-----END EC PARAMETERS-----
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ecparam -in secp26k1.pem -text -param_enc explicit -noout
+Can't open secp26k1.pem for reading, No such file or directory
+27876:error:02001002:system library:fopen:No such file or directory:crypto\bio\bss_file.c:69:fopen('secp26k1.pem','r')
+27876:error:2006D080:BIO routines:BIO_new_file:no such file:crypto\bio\bss_file.c:76:
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ecparam -in secp256k1.pem -text -param_enc explicit -noout
+Field Type: prime-field
+Prime:
+    00:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:
+    ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:fe:ff:
+    ff:fc:2f
+A:    0
+B:    7 (0x7)
+Generator (uncompressed):
+    04:79:be:66:7e:f9:dc:bb:ac:55:a0:62:95:ce:87:
+    0b:07:02:9b:fc:db:2d:ce:28:d9:59:f2:81:5b:16:
+    f8:17:98:48:3a:da:77:26:a3:c4:65:5d:a4:fb:fc:
+    0e:11:08:a8:fd:17:b4:48:a6:85:54:19:9c:47:d0:
+    8f:fb:10:d4:b8
+Order:
+    00:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:
+    ff:fe:ba:ae:dc:e6:af:48:a0:3b:bf:d2:5e:8c:d0:
+    36:41:41
+Cofactor:  1 (0x1)
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst -sha256 message.txt
+SHA256(message.txt)= eb96d1f89812bf4967d9fb4ead128c3b787272b7be21dd2529278db1128d559c
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst -sha256 -sign privatekey.pem -out signature.bin message.txt
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat signature.bin
+e⌂☼↔□□ 6□▲♣*w□□□3□-↑*a@8
+c□b□□□M □□□8`[{□¶□▲Z6R□R4ya□□▬|□□Z>□□☻□q□□]~□□f□□□□UYn□ANy□□z¬□P5W 3□~@F+□vk□♫U3R♦$,□□LN□YB□□►□"        □V(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst -sha256 -verify publickey.pem -signature signature.bin message.txt
+Verified OK
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ecparam -genkey -name secp256k1 -noout -out eccprivateky.pem
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat ec
+eccprivateky.pem   ec-privatekey.pem  ec-pubkey.pem
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat eccprivateky.pem
+-----BEGIN EC PRIVATE KEY-----
+MHQCAQEEIJJby1pbLJvcsAd/7PWBcl3WZOHQGCSkGYW2f0cjR7jjoAcGBSuBBAAK
+oUQDQgAEB5vQTbclPhlTdm0Qsoc/ZTCuSkgR4RG/EgsZr9uIaYzjZnEVrlIVrm6X
+Gno5Qb5V7BmN47wcji4KqqvnMQjbLQ==
+-----END EC PRIVATE KEY-----
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ opensl ec -in eccprovatekey.pem -pubout -out eccpublickey.pm
+bash: opensl: command not found
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in eccprovatekey.pem -pubout -out eccpublickey.pm
+Can't open eccprovatekey.pem for reading, No such file or directory
+33560:error:02001002:system library:fopen:No such file or directory:crypto\bio\bss_file.c:69:fopen('eccprovatekey.pem','r')
+33560:error:2006D080:BIO routines:BIO_new_file:no such file:crypto\bio\bss_file.c:76:
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in eccprivatekey.pem -pubout -out eccpublickey.pm
+Can't open eccprivatekey.pem for reading, No such file or directory
+2160:error:02001002:system library:fopen:No such file or directory:crypto\bio\bss_file.c:69:fopen('eccprivatekey.pem','r')
+2160:error:2006D080:BIO routines:BIO_new_file:no such file:crypto\bio\bss_file.c:76:
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in eccprivatekey.pem -pubout -out eccpublickey.pem
+Can't open eccprivatekey.pem for reading, No such file or directory
+6196:error:02001002:system library:fopen:No such file or directory:crypto\bio\bss_file.c:69:fopen('eccprivatekey.pem','r')
+6196:error:2006D080:BIO routines:BIO_new_file:no such file:crypto\bio\bss_file.c:76:
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in eccprivatekey.pem -pubout -out eccpubliceky.pem
+Can't open eccprivatekey.pem for reading, No such file or directory
+18040:error:02001002:system library:fopen:No such file or directory:crypto\bio\bss_file.c:69:fopen('eccprivatekey.pem','r')
+18040:error:2006D080:BIO routines:BIO_new_file:no such file:crypto\bio\bss_file.c:76:
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in eccprivateeky.pem -pubout -out eccpublickey.pem
+Can't open eccprivateeky.pem for reading, No such file or directory
+29052:error:02001002:system library:fopen:No such file or directory:crypto\bio\bss_file.c:69:fopen('eccprivateeky.pem','r')
+29052:error:2006D080:BIO routines:BIO_new_file:no such file:crypto\bio\bss_file.c:76:
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in eccprivateeky.pem -pubout -out eccpublickey.pem
+Can't open eccprivateeky.pem for reading, No such file or directory
+24868:error:02001002:system library:fopen:No such file or directory:crypto\bio\bss_file.c:69:fopen('eccprivateeky.pem','r')
+24868:error:2006D080:BIO routines:BIO_new_file:no such file:crypto\bio\bss_file.c:76:
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl ec -in eccprivateky.pem -pubout -out eccpublickey.pem
+read EC key
+writing EC key
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat eccpublickey.pem
+-----BEGIN PUBLIC KEY-----
+MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEB5vQTbclPhlTdm0Qsoc/ZTCuSkgR4RG/
+EgsZr9uIaYzjZnEVrlIVrm6XGno5Qb5V7BmN47wcji4KqqvnMQjbLQ==
+-----END PUBLIC KEY-----
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ echo testing > testsign.txt
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ cat testsign.txt
+testing
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst -ecdsa-with-SHA1 -sign eccprivatekey.pem testsign.txt > scsign.bin
+dgst: Unrecognized flag ecdsa-with-SHA1
+dgst: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst -ecdsa-with-SHA1 -sign eccprivateeky.pem testsign.txt > scsign.bin
+dgst: Unrecognized flag ecdsa-with-SHA1
+dgst: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst -ecdsa-with-SHA1 -sign eccprivateky.pem testsign.txt > scsign.bin
+dgst: Unrecognized flag ecdsa-with-SHA1
+dgst: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst -ecdsa-with-SHA1 -sign eccprivateky.pem testsign.txt > ecsign.bin
+dgst: Unrecognized flag ecdsa-with-SHA1
+dgst: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst ecdsa-with-SHA1 -sign eccprivateky.pem testsign.txt > ecsign.bin
+ecdsa-with-SHA1: No such file or directory
+-sign: No such file or directory
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst -ecdsa-with-SHA1 -sign eccprivateeky.pem testsign.txt > ecsign.bin
+dgst: Unrecognized flag ecdsa-with-SHA1
+dgst: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst  -sign eccprivateeky.pem testsign.txt > ecsign.bin
+Can't open eccprivateeky.pem for reading, No such file or directory
+30704:error:02001002:system library:fopen:No such file or directory:crypto\bio\bss_file.c:69:fopen('eccprivateeky.pem','r')
+30704:error:2006D080:BIO routines:BIO_new_file:no such file:crypto\bio\bss_file.c:76:
+unable to load key file
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst  -sign eccprivateky.pem testsign.txt > ecsign.bin
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl dgst  -sign eccprivateky.pem -verify eccpublickey.pem -signature ecsign.bin testsign.txt
+Verified OK
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl req -new -key eccprivaeky.pem -x509 -nodes -days 365 - out eccertificate.pem
+req: Unrecognized flag <NULL>
+req: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl req -new -key eccprivaeky.pem -x509 -nodes -days 365 - out
+req: Unrecognized flag <NULL>
+req: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl req -new -key eccprivateky.pem -x509 -nodes -days 365 - out
+req: Unrecognized flag <NULL>
+req: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl req -new -key eccprivateky.pem -x509 -nodes -days 365 - out ecccertificate.pem
+req: Unrecognized flag <NULL>
+req: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl -new -key eccprivateky.pem -x509 -nodes -days 365 - out ecccertificate.pem
+Invalid command '-new'; type "help" for a list.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$ openssl req -new -key eccprivateky.pem -x509 -nodes -days 365 - out ecccertificate.pem
+req: Unrecognized flag <NULL>
+req: Use -help for summary.
+(dev)
+JBarr@LAPTOP-D3QLJQ6T MINGW64 ~/OneDrive/Documents/FinTech/blockchain
+$
+
+

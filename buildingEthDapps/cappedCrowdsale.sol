@@ -97,13 +97,95 @@ contract CappedFundingStrategy is FundingLimtiStrategy {
     }
 } 
 
+// implementation for a unlimited funding crowdsale from FundingLimtiStrategy
+
 contract UnlimitedFundingStrategy is FundingLimtiStrategy {
     function isFullInvestmentWithinLimit (
         uint256 _invesment,
         uint256 _fullInvestmentReceived) public view returns (bool) { return true; }  
     }
+
+
+contract UnlimitedFixedPricingCrowdsale is FixedPricingCrowdsale {
+
+    constructor(uint _startTime, uint256 _endTime, uint256 _weiTokenPrice, uint256 _etherInvestmentObjective)
+    FixedPricingCrowdsale(_startTime, _endTime, _weiTokenPrice, _etherInvestmentObjective)
+    payable public {
+    }
+
+    function createFundingLimitStrategy() internal returns (FundingLimtiStrategy) {
+
+        return new UnlimitedFundingStrategy();
+    }
 }
 
+contract CappedFixedPricingCrowdsale is FixedPricingCrowdsale {
+    
+    constructor(uint256 _startTime, uint256 _endTime, uint256 _weiTokenPrice, uint256 _etherInvestmentObjective)
+    FixedPricingCrowdsale(_startTime, _endTime, _weiTokenPrice, _etherInvestmentObjective) payable public {
+    }
+
+    function createFundingLimitStrategy() internal returns (FundingLimtiStrategy) {
 
 
-// implementation for a unlimited funding crowdsale from FundingLimtiStrategy
+        return new UnlimitedFundingStrategy();
+    }
+}
+
+contract CappedFixedPricingCrowdsale is FixedPricingCorwdsale {
+    
+    constructor(uint256 _startTime, uint256 _endTime, uint256 _weiTokenPrice, uint256 _etherInvestmentObjective)
+
+    FixedPricingCrowdsale(_startTime, _endTime, _weiTokenPrice, _etherInvestmentObjective) payable public {
+    }
+
+    function createFundingLimitStrategy() internal returns (FundingLimitStrategy) {
+
+        return new CappedFundingStrategy(10000);
+    }
+}
+    
+contract UnlimitedTranchePricingCrowdsale is TranchePricingCrowdsale {
+
+    constructor(uint256 _startTime, uint256 _endTime, uint256 _weiTokenPrice, uint256 _etherInvestmentObjective)
+    TranchePricingCrowdsale(_startTime, _endTime, _weiTokenPrice, _etherInvestmentObjective) payable public {
+    }
+
+    function createFundingLimitStrategy() internal returns (FundingLimitStrategy) {
+
+        return new UnlimitedFundingStrategy();
+ 
+    }
+}
+
+contract CappedTranchePricingCrowdsale is TranchePricingCrowdsale {
+
+    constructor(uint256 _startTime, uint256 _endTime, uint256 _weiTokenPrice, uint256 _etherInvestmentObjective)
+    TranchePricingCrowdsale(_startTime, _endTime, _weiTokenPrice, _etherInvestmentObjective) payable public {
+    }
+
+    function createFundingLimitStrategy() internal returns (FundingLimitStrategy) {
+    
+        return new CappedFundingStrategy(10000);
+    
+ 
+    }
+}
+
+/* 
+Setting functional requirements with interfaces.
+The syntax construct that defines the minimum set of functions the token contract should support is called an interface.
+The token interface that ContractName would look like this:
+*/
+
+interface ReleaseableToken {
+    function mint(address _beneficiary, uint256 _numberOfTokens) external;
+    function release() external;
+    function transfer(address _to, uint256 _amount) external;
+}
+
+// Referencing a contract through an interface 
+// You can define a contract that implements this interface  by inheriting from it. Can also create other implementations:
+
+// Making SimpleCoin ERC20 compliant 
+
